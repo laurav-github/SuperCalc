@@ -27,5 +27,10 @@ public class SuperCalc {
 		ret=op1-op2;
 		return ret;
 	}
+	
+	public int mul(int op1, int op2) {
+		ret=op1*op2;
+		return ret;
+	}
 
 }
